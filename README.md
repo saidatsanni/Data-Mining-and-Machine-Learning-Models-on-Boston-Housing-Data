@@ -27,7 +27,7 @@ The Boston dataset is a famous multivariate data set introduced in 1978 by Harri
 
 
 **Major Findings and Conclusion**
-[Model Comparison]()
+[Model Comparison](/Model Comparison.jpg)
 
 Note that a total of 1,000 trees is considered for Bagging, Random Forest, and Boosting. 
 
