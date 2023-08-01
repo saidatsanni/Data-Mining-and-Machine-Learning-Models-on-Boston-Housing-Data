@@ -27,12 +27,13 @@ The Boston dataset is a famous multivariate data set introduced in 1978 by Harri
 
 
 **Major Findings and Conclusion**
-[Model Comparison](/Model Comparison.jpg)
 
-Note that a total of 1,000 trees is considered for Bagging, Random Forest, and Boosting. 
+![image](https://github.com/saidatsanni/Machine-Learning-Models-on-Boston-Housing-Data/assets/139437600/e864fbd5-52a0-47c6-920b-4119b0a0ed6e)
 
-Table 1 reveals that the trees perform better both in-sample and out-of-sample compared to the linear regression model. Meanwhile, the best regression tree which is a pruned tree of size 10, performs worse than the other tree models. This is because the other procedures are based on the averages of multiple trees on bootstrap samples (Bagging and Bootstrap) and sequential learning (Boosting). 
+**Note that a total of 1,000 trees is considered for Bagging, Random Forest, and Boosting.**
+**The data set is split into 70% Training data and 30% Testing data**
 
-Meanwhile, the advanced tree methods: Bagging, Boosting, and Random Forest perform better than the GAM model for both in-sample and out-of-sample. However, the GAM model considers the non-linear relationship of the predictor variables with the response variable. 
-
-Overall, the neural network has the best prediction performance. This method has the best out-of-sample performance compared to all the models considered. In conclusion, the neural network does a much better job at predicting compared to linear regression, tree models, and generalized additive model.
+* The trees perform better than the linear regression model both in-sample and out-of-sample predictability.
+* The best regression tree shown in the table is a pruned tree of size 10. This performs worse than the other tree models because the other procedures are based on the averages of multiple trees on bootstrap samples (Bagging and Random Forest) and sequential learning (Boosting). 
+* The advanced tree methods: Bagging, Boosting, and Random Forest perform better than the GAM model for both in-sample and out-of-sample.
+* Overall, the neural network has the best prediction performance compared to all the models considered. In conclusion, the neural network does a much better job at prediction compared to linear regression, tree models, and generalized additive models.
