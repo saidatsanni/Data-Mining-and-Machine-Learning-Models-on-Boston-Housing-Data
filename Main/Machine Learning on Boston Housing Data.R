@@ -2,7 +2,7 @@
 ###########################################Analysis of Boston Housing Data Set using Machine Learning Techniques ##############################################
 ###Methods
 #1. Linear Regression Analysis
-#2. Variable Selection (Best subset, forward selection, backward selectiom, Stepwise, and Lasso variable selection methods)
+#2. Variable Selection (Best subset, forward selection, backward selection, Stepwise, and Lasso variable selection methods)
 #3. Cross Validation
 #4. Regression Trees
 #5. Bagging
