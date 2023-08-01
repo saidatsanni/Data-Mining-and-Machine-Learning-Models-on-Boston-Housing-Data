@@ -15,7 +15,7 @@ The Boston dataset is a famous multivariate data set introduced in 1978 by Harri
 **Statistical Techniques**
 
 * Linear Regression Analysis
-* Variable Selection (Best subset, forward selection, backward selectiom, Stepwise, and Lasso variable selection methods)
+* Variable and Model Selection (Best subset, forward selection, backward selection, Stepwise, and Lasso variable selection methods)
 * Cross Validation
 * Regression Trees
 * Bagging
