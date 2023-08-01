@@ -23,7 +23,7 @@ The Boston dataset is a famous multivariate data set introduced in 1978 by Harri
 * Boosted Regression Trees
 * Generalized Additive Model (GAM)
 * Neural Networks
-**Exploratory Data Analysis, Residual Diagnostics, In-sample Prediction, Out-of-sample Prediction, Predictive Performance, and Model Comparison are also included**
+* Exploratory Data Analysis, Residual Diagnostics, In-sample Prediction, Out-of-sample Prediction, Predictive Performance, and Model Comparison are also included**
 
 
 **Major Findings and Conclusion**
