@@ -37,3 +37,8 @@ The Boston dataset is a famous multivariate data set introduced in 1978 by Harri
 * The best regression tree shown in the table is a pruned tree of size 10. This performs worse than the other tree models because the other procedures are based on the averages of multiple trees on bootstrap samples (Bagging and Random Forest) and sequential learning (Boosting). 
 * The advanced tree methods: Bagging, Boosting, and Random Forest perform better than the GAM model for both in-sample and out-of-sample.
 * Overall, the neural network has the best prediction performance compared to all the models considered. In conclusion, the neural network does a much better job at prediction compared to linear regression, tree models, and generalized additive models.
+
+
+**Codes**
+
+The codes can be found here: [Codes](https://github.com/saidatsanni/Machine-Learning-Models-on-Boston-Housing-Data/blob/0b304a99c9f387ad17593c0754721ffb939d45b0/Main/Machine%20Learning%20on%20Boston%20Housing%20Data.R)
